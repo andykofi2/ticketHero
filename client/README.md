@@ -1,0 +1,1 @@
+//The clerk provides full user authentication
